@@ -17,3 +17,5 @@ bin/
 # Maven
 log/
 target/
+pom.xml
+out/artifacts/parse4j_jar/parse4j.jar
